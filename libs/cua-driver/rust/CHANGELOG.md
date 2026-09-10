@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.26.2](https://github.com/trycua/cua/compare/cua-driver-rs-v0.26.1...cua-driver-rs-v0.26.2) (2026-09-10)
+
+
+### Bug Fixes
+
+* **cua-driver:** eliminate duplicate Swift bridge symbols ([#3680](https://github.com/trycua/cua/issues/3680)) ([2ec5858](https://github.com/trycua/cua/commit/2ec5858d1142f2b8f0528053fe03bd191333e4f6))
+
 ## [0.26.1](https://github.com/trycua/cua/compare/cua-driver-rs-v0.26.0...cua-driver-rs-v0.26.1) (2026-09-10)
 
 
